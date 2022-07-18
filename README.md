@@ -21,13 +21,13 @@ $ pip install rich bs4
 $ pip install --upgrade pip
 $ git clone https://github.com/Al-Vino/cracking6
 $ ls ( L kecil )
-$ cd cracking6
+$ cd XVIDEO
 $ python mom.py
 ```
 ## Cara Update
 ```php
 $ cd
-$ cd cracking6
+$ cd XVIDEO
 $ ls ( L kecil )
 $ git pull
 $ python mom.py
